@@ -20,8 +20,7 @@
 欲查看有关依赖运行库和编译工具的更多信息，以及如何运行的说明，请查阅[Rucbase使用文档](docs/Rucbase使用文档.md)
 
 欲了解如何在非Linux系统PC上部署实验环境的指导，请查阅[Rucbase环境配置文档](docs/Rucbase环境配置文档.md)
-### SSH推送
-git remote set-url origin git@github.com:mingtangke/Rucbase-HIT.git
+
   
 ### 个人完成时间记录
 
@@ -32,7 +31,6 @@ git remote set-url origin git@github.com:mingtangke/Rucbase-HIT.git
 | Lab2         | 第1周               | 4h                |   中           | 两个任务完成之后再一起测试      |
 | Lab3         | 第1周               | 10h                |   难           | crabbing protocol unfinished,验证B+树推荐使用test_demo里面的图形化函数|
 | Lab4         | 第1周               | 3.5h               |   中         | 先阅读一下index部分的函数     |
-| Lab5         | 第6周               | 11h                |   难         |差点忘了这个坑     |
 
 
 
